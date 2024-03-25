@@ -21,7 +21,6 @@
 			</Item>
 		</Item>
 		<Item Name="Modules" Type="Folder">
-			<Item Name="Motherboard loading.lvlib" Type="Library" URL="../Libraries/Motherboard loading/Motherboard loading.lvlib"/>
 			<Item Name="Rename As Application UI.lvlib" Type="Library" URL="../Libraries/Rename As Application UI/Rename As Application UI.lvlib"/>
 		</Item>
 		<Item Name="Support" Type="Folder">
@@ -31,13 +30,11 @@
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Peloton_Test DCFG API.vi" Type="VI" URL="/&lt;vilib&gt;/Peloton/Peloton Config/Libraries/DCFG Framework/Peloton_Test DCFG API.vi"/>
-			<Item Name="Test Motherboard loading API.vi" Type="VI" URL="../Libraries/Motherboard loading/Test Motherboard loading API.vi"/>
 			<Item Name="Test Rename As Application UI API.vi" Type="VI" URL="../Libraries/Rename As Application UI/Test Rename As Application UI API.vi"/>
 		</Item>
 		<Item Name="Rename As Application Main.vi" Type="VI" URL="../Rename As Application Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
 				<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
@@ -142,12 +139,6 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="mscorlib" Type="VI" URL="mscorlib">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="System.Management" Type="Document" URL="System.Management">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="version.dll" Type="Document" URL="version.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -190,7 +181,7 @@
 				<Property Name="TgtF_companyName" Type="Str">Peloton Interactive, Inc</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Rename As Application Name</Property>
 				<Property Name="TgtF_internalName" Type="Str">Rename As Application Name</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright c 2022 Peloton Interactive, Inc</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2022 Peloton Interactive, Inc</Property>
 				<Property Name="TgtF_productName" Type="Str">Rename As Application Name</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{DB883995-1D4F-459C-B8C8-D653782496C9}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">RenameAsApplicationName.exe</Property>
