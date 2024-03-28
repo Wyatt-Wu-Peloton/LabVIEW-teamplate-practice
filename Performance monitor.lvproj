@@ -22,7 +22,7 @@
 		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="Motherboard loading.lvlib" Type="Library" URL="../Libraries/Motherboard loading/Motherboard loading.lvlib"/>
-			<Item Name="Rename As Application UI.lvlib" Type="Library" URL="../Libraries/Rename As Application UI/Rename As Application UI.lvlib"/>
+			<Item Name="Performance Monitor UI.lvlib" Type="Library" URL="../Libraries/Rename As Application UI/Performance Monitor UI.lvlib"/>
 		</Item>
 		<Item Name="Support" Type="Folder">
 			<Item Name="Launcher Support.lvlib" Type="Library" URL="../Libraries/Launcher Support/Launcher Support.lvlib"/>
@@ -32,9 +32,9 @@
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Peloton_Test DCFG API.vi" Type="VI" URL="/&lt;vilib&gt;/Peloton/Peloton Config/Libraries/DCFG Framework/Peloton_Test DCFG API.vi"/>
 			<Item Name="Test Motherboard loading API.vi" Type="VI" URL="../Libraries/Motherboard loading/Test Motherboard loading API.vi"/>
-			<Item Name="Test Rename As Application UI API.vi" Type="VI" URL="../Libraries/Rename As Application UI/Test Rename As Application UI API.vi"/>
+			<Item Name="Test Performance Monitor UI API.vi" Type="VI" URL="../Libraries/Rename As Application UI/Test Performance Monitor UI API.vi"/>
 		</Item>
-		<Item Name="Rename As Application Main.vi" Type="VI" URL="../Rename As Application Main.vi"/>
+		<Item Name="Performance Monitor Main.vi" Type="VI" URL="../Performance Monitor Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
@@ -183,7 +183,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{8DD9E9EE-F857-4D18-9BB3-E470A317B7D9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Rename As Application Main.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Performance Monitor Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>

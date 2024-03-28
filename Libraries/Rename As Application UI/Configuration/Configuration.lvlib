@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="20008000">
-	<Property Name="NI.Lib.ContainingLib" Type="Str">Rename As Application UI.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Rename As Application UI.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLib" Type="Str">Performance Monitor UI.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Performance Monitor UI.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Z!!!*Q(C=\&gt;7\&lt;2N2%)8B)]/"5X:AURXY2!Y.M!7W-#UQ&amp;7!'&lt;'&amp;37R&amp;&lt;9+2]7G!,&lt;'(V\_79%GR$$0S!$7C8FY_T^]\^^EFJ,'_EVZKO,8JW/7_@ZN@50[@,WQ`&lt;(`P^@0TU,:JU&gt;@T4\4XG]@/\_:`T`^,OPSQPSX_`X&amp;[^#@\Y@8"TPG/HK7B*#ZL0NX/2&amp;XG2&amp;XG2&amp;XG3*XG3*XG3*XG1"XG1"XG1"\H*47ZSEZP=ZQ@+*(+2CVQ?DZ"C]G+CIGB2I/A-2=6&lt;Y3E]B;@Q]&amp;/&amp;J`!5HM*4?/CCQF.Y#E`B+4Q-5_%J0)7H]"1?3AV*D:5=4_'BP"*0YEE]C3@R-+534Q*)*EM+*U6A+.G9@%E]C3@R]&amp;7**`%EHM34?.CMR*.Y%E`C34Q-'5=FBW:?S@&amp;12I%H]!3?Q".Y++X!%XA#4_!*0%SHQ".Y!E1Q96!=AI*"19@A2_!*0(QI]!3?Q".Y!A_&lt;RBG+=72GT&lt;S3YT%?YT%?YT%?3MBYD-&gt;YD-&gt;Y+#PD-2\D-2\D93I:D`%9DY'93:F?JJA:;$K:Q(BYD;P&amp;YSTFE(CM[P_C=;'K,U$VB;7_9.18API%KU_=_I3I$\4[!+I0D(K(V4OC"KIH6B&gt;5&gt;^3*^S0N1.P4&gt;L1.&lt;5V&lt;U:;UR4TU.X=]H5Y[(I][(!\;\`@;\8&lt;;&lt;$:;L^&gt;;L6:;,J&gt;;,";8R]"&lt;VMM$Y@R=OO8\^OP(__X&gt;FZPNX9@Z]^0H^_`OZ`QP`$``!]^'P&gt;,4/4B'$[4_/:Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
