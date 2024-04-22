@@ -90,5 +90,5 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Configuration.lvlib" Type="Library" URL="../Configuration/Configuration.lvlib"/>
+	<Item Name="Configuration.lvclass" Type="LVClass" URL="../Configuration/Configuration.lvclass"/>
 </Library>
